@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mastermind</string>
+
+    <string-array name="object">
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="stage">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
